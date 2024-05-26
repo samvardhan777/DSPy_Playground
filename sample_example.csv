@@ -1,0 +1,12 @@
+context,question,answer
+"NaN","What characteristics should data products have according to Zhamak Dehgahi?","Data products should be discoverable, addressable, trustworthy, self-describing, interoperable, and secure."
+"NaN","Why is it considered a lost opportunity that most data products only support one or two use cases?","It's a lost opportunity because it reflects underutilization and limits the potential benefits across various teams, especially in organizations with decentralized structures or those implementing data mesh."
+"NaN","What is the benefit of creating a central marketplace or catalog for internal data products?","Creating a central marketplace or catalog helps raise awareness and can convince skeptical data consumers to start using the data products."
+"NaN","How can trustworthiness in data products be achieved?","Trustworthiness in data products can be achieved by being transparent about information quality metrics and performance promises."
+"NaN","How does Thoughtworks identify potential data products?","Thoughtworks identifies potential data products by working backwards from the use case using the Jobs to be Done (JTBD) framework."
+"NaN","How can the deployment of data monitors be automated?","The deployment of data monitors can be automated using the Monte Carlo CLI as part of the CI/CD pipeline."
+"NaN","What are the considerations to design the right data product?","Key considerations in designing the right data products are its fulfillment to the use case for a given domain, along with compliance to slo and slis, support for output ports based on persona, metadata for discoverability and access and quality aspects to deliver trust."
+"NaN","what are tools used in?","Snowflake, Talend, DBT, Collibra, Monte Carlo, Dataops.live, SOLE, OAM Client libraries"
+"NaN","According to Zhamak Dehghani's principles, effective data products in a Data Mesh architecture should possess several key qualities. Which of the following options correctly lists these qualities?","Discoverable, Addressable, Trustworthy, Self-Describing, Interoperable, and Secure"
+"NaN","The three pillars of Data Mesh success","Organizational change, product thinking, and technology"
+"NaN","What is Data Mesh?","A decentralized approach to data architecture and organizational design"
